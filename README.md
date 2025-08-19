@@ -80,5 +80,5 @@ El objetivo es **entender los factores que influyen en la cancelación del servi
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/jcorellanamo/TelecomX_Churn.git
+   git clone https://github.com/jcorellanamo/telecomxlatam.git
    cd TelecomX_Churn
