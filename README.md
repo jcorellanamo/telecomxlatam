@@ -10,7 +10,6 @@ El objetivo es **entender los factores que influyen en la cancelación del servi
 
 - `TelecomX_LATAM.ipynb` → Notebook con todo el flujo de trabajo y el informe final.
 - `informe_figs/` → Carpeta con las imágenes utilizadas en el informe.
-- `TelecomX_Entregable.zip` → Paquete comprimido con el notebook y las figuras (entregable final).
 - `TelecomX_Data.json` → Dataset original en formato JSON.
 - `TelecomX_Data_Estandarizado.csv` → Dataset limpio y estandarizado para el análisis.
 - `README.md` → Este archivo de documentación.
